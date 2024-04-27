@@ -24,13 +24,13 @@ Answer: The illumina cleaned reads are larger
 Answer: I think it probably stems from the fact that you get longer reads with nanopore so the raw read files will be larger. After filtering, its possible that the Nanopore files are smalling because more of them are getting removed as quality is generally lower than illumina. 
 
 ## Q7: What is the average read depth for the Illumina data across all samples for the genomic regions that were mapped to?
-Answer:
+Answer: 37901
 
 ## Q8: What is the average read depth for the Illumina data across all samples for all genomic regions?
-Answer:
+Answer: 338
 
 ## Q9: What is the average read depth for the Nanopore data across all samples for the genomic regions that were mapped to?
-Answer:
+Answer: 0.0465426
 
 ## Q10: What is the average read depth for the Nanopore data across all samples for all genomic regions?
-Answer:
+Answer: 0.0176322
